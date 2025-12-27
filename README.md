@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currenty working on acquiring hack the box and cpts. I am looking to collarobate on a lot of cybersecurity projects, in order to evolve myself as a pen test specialist and eventually land a job as a senior security researcher. Fun fact is that, I am good at most of sports: such as rock climbing, ping pong, basketball, volleyball, billiard, bowling, and a lot more. also i am good at math, topics about self-improvement, fashion, <br>
+I’m a cybersecurity student and aspiring penetration tester with a strong focus on offensive security, enumeration, and real-world attack methodology.
+I’m currently working toward Hack The Box CPTS, building a solid foundation through structured learning, hands-on labs, and personal projects.
+
+My goal is to collaborate on cybersecurity projects, continuously sharpen my technical depth, and grow into a senior security researcher over time — not by shortcuts, but through consistent practice and real understanding.
+
+I value methodology over tools, clarity over noise, and learning things the right way.
 
 
 ## 🌐 Socials:
