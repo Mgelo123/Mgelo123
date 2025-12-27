@@ -10,8 +10,106 @@ I value methodology over tools, clarity over noise, and learning things the righ
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/luka.xarchilava.1238/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luka_xarcho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-mgeladze-3baa18262/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lukamgeladze777@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+##🔐 What I’m Working On
+
+#🧠 Hack The Box Academy (Offensive Track)
+
+Network Enumeration with Nmap
+
+Footprinting
+
+Information Gathering (Web)
+
+Vulnerability Assessment
+
+File Transfers
+
+#🧪 CTF-style labs focused on:
+
+Enumeration-first mindset
+
+Linux privilege escalation fundamentals
+
+Web attack surfaces
+
+#🐍 Python for Cybersecurity
+
+CLI tools
+
+Automation scripts
+
+Socket-based networking projects
+
+I treat every lab and project as if it were a real assessment, documenting findings and improving my workflow.
+
+##🛠️ Technical Interests & Skills
+
+Offensive Security
+
+Network & service enumeration
+
+Web reconnaissance
+
+Vulnerability analysis
+
+Basic exploitation concepts
+
+Post-exploitation fundamentals
+
+Tools & Environments
+
+Nmap, Burp Suite, Metasploit, Wireshark
+
+Linux (Kali, Ubuntu), Windows
+
+Hack The Box, TryHackMe, CTF platforms
+
+Programming
+
+Python (automation, file handling, networking basics)
+
+Writing small tools to understand how things work, not just use them
+
+##🤝 Collaboration
+
+I’m actively looking to collaborate on:
+
+Beginner–intermediate pentesting tools
+
+Enumeration & recon automation
+
+Learning-focused cybersecurity projects
+
+CTF writeups and methodology breakdowns
+
+If you care about learning deeply, documenting your process, and improving together — I’m in.
+
+##🧠 How I Think
+
+Strong background in math and analytical problem-solving
+
+Interested in self-improvement, discipline, and long-term growth
+
+I enjoy breaking complex topics into clear, teachable pieces
+
+I believe consistency beats talent
+
+##🏃 Outside Tech
+
+When I’m not breaking things (ethically), I’m usually:
+
+🧗 Rock climbing
+
+🏀 Playing basketball or volleyball
+
+🏓 Ping pong, 🎱 billiards, 🎳 bowling
+
+Exploring fashion and fitness
+
+Working on personal development
+
+I’m competitive, curious, and enjoy pushing limits — mentally and physically.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mgelo123&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mgelo123&theme=chartreuse-dark&hide_border=false)<br/>
