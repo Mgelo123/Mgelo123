@@ -110,9 +110,9 @@ If you care about learning deeply, documenting your process, and improving toget
 <p>When I’m not breaking things (ethically), I’m usually:</p>
 
 <ul>
-  <li>🧗 Rock climbing</li>
+  <li>🧗 Rock climbing & Gym </li> 
   <li>🏀 Basketball & Volleyball</li>
-  <li>🏓 Ping pong · 🎱 Billiards · 🎳 Bowling</li>
+  <li>🏓 Ping pong · 🎱 Billiard · 🎳 Bowling</li>
   <li>Exploring fashion, fitness, and personal development</li>
 </ul>
 
